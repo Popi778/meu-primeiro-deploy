@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <main style={{ maxWidth: 480, margin: "4rem auto", fontFamily: "sans-serif" }}>
       <h1>Olá, mundo! Aqui é João Guilherme</h1>
-      <p>Digite seu nome e clique no botão para chamar a API:</p>
+      <p>Digite seu nome e clique no botão para chamar a API (versão de preview):</p>
 
       <input
         value={nome}
